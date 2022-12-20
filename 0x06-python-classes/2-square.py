@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 2-square.py
-# Ajisafe Lukman <ajisafelukmanm@gmail.com.com>
+# Ajisafe Lukman <ajisafelukmanm@gmail.com>
 """Define a class Square."""
 
 
@@ -16,4 +16,4 @@ class Square:
             raise TypeError("size must be an integer")
         elif size < 0:
             raise ValueError("size must be >= 0")
-        self.__size = 
+        self.__size = size
