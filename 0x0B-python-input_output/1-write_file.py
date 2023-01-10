@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-# 3-write_file.py
-# Ajisafe Lukman
 """Defines a file-writing function."""
 
 
